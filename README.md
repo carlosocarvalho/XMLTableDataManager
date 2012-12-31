@@ -18,7 +18,7 @@ Podemos substituir de maniera simple um model usando essa biblioteca .
 Library running methods similar to active record of codeigniter 2.0
 This library performs functions crud and join transforming an XML file in database
 
-# # # # What can we do with this library?
+#### What can we do with this library?
 We can replace the simple maniera a model using that library.
 * Insert
 * Delete
