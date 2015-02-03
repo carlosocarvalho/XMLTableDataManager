@@ -1,0 +1,13 @@
+{
+    "name": "carlosocarvalho/xml-table-data-manager",
+    "description": "Package for ci",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Carlos Carvalho",
+            "email": "contato@carlosocarvalho.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
