@@ -3,6 +3,7 @@
  * @Library Name: XMLDataManager
  * @author      : Carlos
  * @Description : Biblioteca para simular o active record de acoes com insert,delete,update,join
+ * @version     :1.0.0
  */
 
 class XMLDataManager {
